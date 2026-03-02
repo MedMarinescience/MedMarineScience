@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi there,  I'm Serhat Ertugrul 👋
 
+<p><em>Marine Biologist at <a href='https://ims.metu.edu.tr/'>METU Institute of Marine Sciences</a>
+ <img align='right' src="./.png" width="450">
+ 
+ 
+ ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+ 
+ 
+ 
+ </br>
+ 
+- 🔭 Currently working on my pHD Thesis "HIGH – FREQUENCY DYNAMICS OF CATCHMENT NUTRIENT FLUXES TO
+THE EASTERN MEDITERRANEAN SEA AND THE SEA OF MARMARA"
+ 
 <!--
 **MedMarinescience/MedMarineScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
