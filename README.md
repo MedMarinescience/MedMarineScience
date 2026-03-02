@@ -1,7 +1,7 @@
 ## Hi there,  I'm Serhat Ertugrul 👋
 
 <p><em>Marine Biologist at <a href='https://ims.metu.edu.tr/'>METU Institute of Marine Sciences</a>
- <img align='right' src="IMG_20210304_102425_lamas/.png" width="450">
+ <img align='right' src="IMG_20210304_102425_lamas/.jpg" width="450">
  
  
  ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
